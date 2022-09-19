@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: c++
   percentage: 90
   color: danger
 
-- name: Go
+- name: Pytorch
   percentage: 80
   color:
 
-- name: Python
+- name: Pytorch Lightning 
   percentage: 70
   color: secondary
